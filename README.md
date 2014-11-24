@@ -43,7 +43,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Eva Hugi | C |
 | Joana DaRocha | C |
 | Kilian Zucconi | C |
-| Chloé Jelk | D |
+| Chloé Jelk | [chloejelk] (http://www.github.com/chloejelk)  | D |
 | Taylor Diggelmann | D |
 | Lauren Thiel | D |
 | Emmanuelle Kohli | E |
